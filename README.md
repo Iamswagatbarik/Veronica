@@ -12,7 +12,7 @@ This project is an image search engine that uses the Unsplash API to fetch and d
 ## Features
 - Search for images using keywords
 - Display search results in a grid layout
-- Click on an image to view it in full size
+- Click on an image to Download image for free from Unsplash
 - Responsive design
 
 ## Screenshots
