@@ -77,6 +77,11 @@ form button {
   color: #fff;
 }
 
+.footer h3 a {
+  color: inherit; 
+  text-decoration: none;
+}
+
 #search-result {
   width: 80%;
   margin: 100px auto 50px;
@@ -102,6 +107,10 @@ form button {
     0 24px 46px var(--box-shadow-color);
 }
 
+#show-more-btn:hover{
+  background-color: rgb(235, 85, 47);
+  cursor: pointer;
+}
 @media screen and (max-width: 950px) {
   #search-result {
     grid-template-columns: 1fr 1fr;
