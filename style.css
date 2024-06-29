@@ -66,6 +66,11 @@ form button {
   border-radius: 4px;
   margin: 10px auto 100px;
   display: none;
+  cursor: pointer;
+}
+
+#show-more-btn:hover {
+  background: #e63527;
 }
 
 .footer {
