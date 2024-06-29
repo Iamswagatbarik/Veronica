@@ -52,6 +52,10 @@ form button {
   cursor: pointer;
 }
 
+#show-more-btn:hover {
+  background: #e63527;
+}
+
 ::placeholder {
   color: #fff;
   font-size: 18px;
